@@ -1,0 +1,52 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+#arquivos csv
+*.csv
+
+
+# Logs
+*.log
+
+# Pastas de build / compilação
+dist/
+build/
+out/
+
+# Dependências (exemplo para Node.js)
+node_modules/
+
+# Arquivos de ambiente (variáveis secretas)
+.env
+
+# Arquivos temporários do editor
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Pastas do sistema operacional (Windows)
+ehthumbs.db
+Desktop.ini
+
+# IDEs / editores
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# Arquivos de backup
+*~
+
+# MacOS
+.AppleDouble
+.LSOverride
